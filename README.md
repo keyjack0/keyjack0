@@ -34,9 +34,9 @@ Github Statistic
 
 <h3 align='left'>
 📫 Let's Connect!
-- LinkedIn: [Dzaky Hamid Al Aziz](www.linkedin.com/in/dzaky-hamid)
-- Email: dzakyhamid9@gmail.com
 </h3>
+- LinkedIn: [Dzaky Hamid Al Aziz](www.linkedin.com/in/dzaky-hamid)
+- Email: (dzakyhamid9@gmail.com)
 
 
 <!--
