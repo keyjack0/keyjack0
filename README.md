@@ -8,6 +8,14 @@
 - 🛠️ **Database**: MySQL, PhpMyAdmin  
 - 🤖 **Machine Learning**: Google Colab, Scikit-learn, Pandas  
 - 🧠 **Other Tools**: Git, Figma, Streamlit
+
+### Github Statistic
+<p align="left">
+<a href="https://github.com/keyjack0">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=keyjack0&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=keyjack0&layout=compact&theme=algolia"/>
+</a>
+</p>
 <!--
 **keyjack0/keyjack0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
