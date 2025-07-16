@@ -1,5 +1,13 @@
-## Hi there 👋
+## Hi 👋 I'm Dzaky. 
 
+🎓 I'm a 6th semester Information Systems student at **Universitas Amikom Yogyakarta**, passionate about building web applications, analyzing data, and solving problems through code.
+
+## 🚀 Tech Stack
+- 💻 **Web Development**: HTML, CSS, PHP, JavaScript  
+- 🔧 **Frameworks**: CodeIgniter 3, Laravel 12, Bootstrap 5  
+- 🛠️ **Database**: MySQL, PhpMyAdmin  
+- 🤖 **Machine Learning**: Google Colab, Scikit-learn, Pandas  
+- 🧠 **Other Tools**: Git, Figma, Streamlit
 <!--
 **keyjack0/keyjack0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
