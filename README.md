@@ -1,6 +1,6 @@
 ### Hi 👋 I'm Dzaky. 
 
-🎓 I'm a 6th semester Information Systems student at **Universitas Amikom Yogyakarta**, passionate about building web applications, analyzing data, and solving problems through code.
+🎓 I'm a 6th semester Information Systems student, passionate about building web applications, analyzing data, and solving problems through code.
 
 ### 🚀 Tech Stack
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
