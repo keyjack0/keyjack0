@@ -4,8 +4,11 @@
 <p align='center'>
 🎓 I'm a 6th semester Information Systems student, passionate about building web applications, analyzing data, and solving problems through code.
 </p>
-### Github Statistic
+<h3 align='center'>
+Github Statistic
+</h3>
 <p align="center">
+  
 <a href="https://github.com/keyjack0">
 <!--   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=keyjack0&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> -->
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=keyjack0&layout=compact&theme=algolia"/>
