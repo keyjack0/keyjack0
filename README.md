@@ -32,6 +32,12 @@ Github Statistic
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
+<h3 align='left'>
+📫 Let's Connect!
+- LinkedIn: [Dzaky Hamid Al Aziz](www.linkedin.com/in/dzaky-hamid)
+- Email: dzakyhamid9@gmail.com
+</h3>
+
 
 <!--
 **keyjack0/keyjack0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
