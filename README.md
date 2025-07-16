@@ -31,12 +31,9 @@ Github Statistic
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </p>
-
-<h3 align='left'>
-📫 Let's Connect!
-</h3>
-- LinkedIn: [Dzaky Hamid Al Aziz](www.linkedin.com/in/dzaky-hamid)
-- Email: (dzakyhamid9@gmail.com)
+<p align='center'>
+📫 How to reach me: <a href='mailto:dzakyhamid9@gmail.com'>dzakyhamid9gmail.com</a>
+</p>
 
 
 <!--
