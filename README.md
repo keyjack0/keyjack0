@@ -1,8 +1,17 @@
 ### Hi 👋 I'm Dzaky. 
 
+<h1 align='center'>
+  Hi 👋 I'm Dzaky 👨‍💻
+</h1>
+<p align='center'>
 🎓 I'm a 6th semester Information Systems student, passionate about building web applications, analyzing data, and solving problems through code.
-
+</p>
 ### 🚀 Tech Stack
+
+<h1 align='center'>
+  🚀 Tech Stack
+</h1>
+<p align='center'>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
@@ -15,6 +24,7 @@
 <img src="https://img.shields.io/badge/phpmyadmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white" />
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
 ### Github Statistic
 <p align="left">
