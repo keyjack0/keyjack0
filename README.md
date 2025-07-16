@@ -1,16 +1,19 @@
-### Hi 👋 I'm Dzaky. 
-
 <h1 align='center'>
   Hi 👋 I'm Dzaky 👨‍💻
 </h1>
 <p align='center'>
 🎓 I'm a 6th semester Information Systems student, passionate about building web applications, analyzing data, and solving problems through code.
 </p>
-### 🚀 Tech Stack
-
-<h1 align='center'>
+### Github Statistic
+<p align="center">
+<a href="https://github.com/keyjack0">
+<!--   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=keyjack0&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> -->
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=keyjack0&layout=compact&theme=algolia"/>
+</a>
+</p>
+<h3 align='center'>
   🚀 Tech Stack
-</h1>
+</h3>
 <p align='center'>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
@@ -26,13 +29,7 @@
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
-### Github Statistic
-<p align="left">
-<a href="https://github.com/keyjack0">
-<!--   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=keyjack0&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> -->
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=keyjack0&layout=compact&theme=algolia"/>
-</a>
-</p>
+
 <!--
 **keyjack0/keyjack0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
