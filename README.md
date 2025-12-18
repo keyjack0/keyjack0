@@ -2,7 +2,7 @@
   Hi 👋 I'm Dzaky 👨‍💻
 </h1>
 <p align='center'>
-🎓 I'm a 6th semester Information Systems student, passionate about building web applications, analyzing data, and solving problems through code.
+🎓 I'm a Information Systems student, passionate about building web applications, analyzing data, and solving problems through code.
 </p>
 <h3 align='center'>
 Github Statistic
