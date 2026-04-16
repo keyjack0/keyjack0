@@ -1,9 +1,9 @@
 <h1 align='center'>
   Hi 👋 I'm Dzaky 👨‍💻
 </h1>
-<p align='center'>
+<!-- <p align='center'>
 🎓 I'm a Information Systems student, passionate about building web applications, analyzing data, and solving problems through code.
-</p>
+</p> -->
 <h3 align='center'>
 Github Statistic
 </h3>
